@@ -1,0 +1,57 @@
+Part 1: Introduction to Software Engineering
+
+Explain what software engineering is and discuss its importance in the technology industry.
+
+Software engineering is the application of engineering principles to the design, development, maintenance, testing, and evaluation of computer software.   
+It's crucial for creating reliable, efficient, and scalable software systems that drive digital transformation, innovation, and economic growth in the technology industry.   
+Identify and describe at least three key milestones in the evolution of software engineering.
+
+The "Software Crisis" (Late 1960s): Led to the formal establishment of software engineering as a discipline, emphasizing structured development.   
+Rise of Structured/Object-Oriented Programming (1970s-80s): Improved code organization and reusability with languages like C++ and Java.
+Internet/Cloud Computing (1990s-Present): Enabled global connectivity, web applications, and scalable cloud-based systems, heavily influencing agile and DevOps.
+List and briefly explain the phases of the Software Development Life Cycle.
+
+Planning: Defining project goals and requirements.
+Analysis: Gathering and documenting detailed requirements.
+Design: Creating the software architecture and UI.   
+Implementation: Writing the code.
+Testing: Identifying and fixing defects.
+Deployment: Releasing the software to users.   
+Maintenance: Providing support and updates.   
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Waterfall: Linear, sequential; suitable for stable requirements (e.g., embedded systems).
+Agile: Iterative, flexible; suitable for evolving requirements (e.g., web applications).   
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Developer: Writes code, implements features.   
+QA Engineer: Tests software, identifies bugs.   
+Project Manager: Plans, executes, and monitors projects.   
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+IDEs: Enhance productivity (e.g., Visual Studio, IntelliJ IDEA).   
+VCS: Track changes, enable collaboration (e.g., Git, GitHub).   
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+Challenges: Evolving technologies, legacy code, debugging.
+Strategies: Continuous learning, refactoring, systematic debugging.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+Unit: Tests individual components.   
+Integration: Tests interactions between components.   
+System: Tests the entire system.   
+Acceptance: Tests from the user's perspective.
+All are vital for ensuring software reliability and quality.
+
+Part 2: Introduction to AI and Prompt Engineering
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+
+Prompt engineering is the process of crafting effective prompts to elicit desired outputs from AI models.   
+It's crucial for improving accuracy, relevance, and control in AI interactions.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague: "Write a story."
+Improved: "Write a short (200-word) science fiction story about a robot discovering a hidden city."
+The improved prompt is more effective because it provides clear constraints, context, and specific instructions, leading to a more focused and relevant response from the AI.
+
